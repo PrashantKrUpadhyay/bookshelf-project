@@ -8,7 +8,6 @@ This repository contains bookshelf app built using the MERN stack. Pease follow 
 2. Sign Up
 3. Books Section
 4. Adding a Book
-5. Updating a Book's Details
 6. Delete a Book 
 
 >[Working Demo](http://localhost:3000)
